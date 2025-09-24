@@ -1,1 +1,1 @@
-print(" pintar")
+print(" pintar un nombre")
